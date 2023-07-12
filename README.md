@@ -1,5 +1,5 @@
 # 💫 About Me:
-💾 ¡Bienvenido a mi perfil de GitHub!<br><br>Actualmente, estoy enfocado en convertirme en un desarrollador full stack. <br>Estudiando constantemente y trabajando en proyectos personales para mejorar<br>mis habilidades en el desarrollo web y la programación.<br><br>Mi objetivo final es poder desarrollar una aplicación completa que resuelva problemas<br>del mundo real y sea útil para la comunidad. Creo que el desarrolo software es una herramienta <br>poderosa para ayudar a resolver problemas cotidianos.<br><br> <b>"Nadie sabe todo, todos sabemos algo, y entre todos sabemos mucho."</b>
+💾 ¡Bienvenido a mi perfil de GitHub!<br><br>Actualmente, estoy enfocado en convertirme en un desarrollador full stack. <br>Estudiando constantemente y trabajando en proyectos personales para mejorar<br>mis habilidades en el desarrollo web y la programación.<br><br>Mi objetivo final es poder desarrollar una aplicación completa que resuelva problemas<br>del mundo real y sea útil para la comunidad. Creo que el desarrollo de software es una herramienta <br>poderosa para ayudar a resolver problemas cotidianos.<br><br> <b>"Nadie sabe todo, todos sabemos algo, y entre todos sabemos mucho."</b>
 
 
 ## 🌐 Socials:
