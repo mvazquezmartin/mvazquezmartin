@@ -1,4 +1,6 @@
 #  💾 ¡Bienvenido a mi perfil de GitHub!
+<br/><br/> 
+***"Nadie sabe todo, todos sabemos algo, y entre todos sabemos mucho."***
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matiasvazquezmartin/) 
@@ -11,5 +13,3 @@
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ### 😂 Dev Meme
 <img src="https://media.licdn.com/dms/image/C4E22AQG7DnShZpd3VQ/feedshare-shrink_800/0/1677791091390?e=2147483647&v=beta&t=cRUM_pUwUkjSLVhX00ds4k1fV9xAY_h4MrMfXMDx0-w" width="512px"/>
-<br/><br/> 
-***"Nadie sabe todo, todos sabemos algo, y entre todos sabemos mucho."***
