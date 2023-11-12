@@ -1,6 +1,6 @@
 #  💾 ¡Bienvenido a mi perfil de GitHub!
 <br/><br/> 
-***"Nadie sabe todo, todos sabemos algo, y entre todos sabemos mucho."***
+***"Nadie sabe todo, todos sabemos algo, y entre todos sabemos mucho."*** 
 <br/><br/> 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matiasvazquezmartin/) 
