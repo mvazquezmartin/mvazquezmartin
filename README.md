@@ -11,5 +11,3 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 <br/><br/>
-### 😂 Dev Meme
-<img src="https://media.licdn.com/dms/image/C4E22AQG7DnShZpd3VQ/feedshare-shrink_800/0/1677791091390?e=2147483647&v=beta&t=cRUM_pUwUkjSLVhX00ds4k1fV9xAY_h4MrMfXMDx0-w" width="512px"/>
