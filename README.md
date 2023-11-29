@@ -7,5 +7,5 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,react,firebase,nodejs,express,mongodb,postman)](https://skillicons.dev)
 <br/><br/>
 ## 📚 Next To Learn: 
-[![My Skills](https://skillicons.dev/icons?i=ts,nestjs,postgres,aws,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nestjs,postgres,docker,aws,py)](https://skillicons.dev)
 
