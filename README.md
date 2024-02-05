@@ -8,5 +8,3 @@
 <br/><br/>
 ## 📚 Next To Learn: 
 [![My Skills](https://skillicons.dev/icons?i=ts,nestjs,postgres,docker,aws,py)](https://skillicons.dev)
-
-
