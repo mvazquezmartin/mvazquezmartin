@@ -21,30 +21,19 @@
     <summary><h2 style="display: inline-block">💻 Tech Stack 👨🏻‍💻</h2></summary>
   </ul>
 </div>
-<div align="center">
+<div>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,react,firebase,nodejs,express,mongodb,postman,wordpress" />
   </a>
 </div>
 <div id="user-content-toc">
-  <ul align="center">
+  <ul>
     <summary><h2 style="display: inline-block">📚 Next To Learn</h2></summary>
   </ul>
 </div>
-<p align="center">
+<div>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,nestjs,postgres,docker,aws,py" />
   </a>
-</p>
+</div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-![gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjc2OGtuYzJueWs5czdnMDE3NnluNHZqcjE0eXFjeXZvM3Njdzh3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif)
-<br/><br/>
-***"Nobody knows everything, everybody knows something, and together we know a lot."*** <br/>
-***"Nadie sabe todo, todos sabemos algo, y entre todos sabemos mucho."*** 
-<br/>
-## 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,react,firebase,nodejs,express,mongodb,postman,wordpress)](https://skillicons.dev)
-<br/><br/>
-## 📚 Next To Learn: 
-[![My Skills](https://skillicons.dev/icons?i=ts,nestjs,postgres,docker,aws,py)](https://skillicons.dev)
