@@ -27,7 +27,7 @@
 </div>
 <div id="user-content-toc">
   <ul>
-    <summary><h2 style="display: inline-block">📚 Next To Learn</h2></summary>
+    <summary><h2 style="display: inline-block">📚 Next To Learn 🧐</h2></summary>
   </ul>
 </div>
 <div>
