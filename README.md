@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<div id="user-content-toc">
+<div>
   <ul align="center">
     <summary><h1 style="display: inline-block">💾 Welcome To My GitHub! 💡</h1></summary>
   </ul>
@@ -16,7 +16,7 @@
 </p>
 <hr style="border-top: 0.1px solid #ccc;">
 
-<div id="user-content-toc">
+<div>
   <ul>
     <summary><h2 style="display: inline-block">💻 Tech Stack 👨🏻‍💻</h2></summary>
   </ul>
@@ -26,7 +26,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,react,firebase,nodejs,express,mongodb,postman,wordpress" />
   </a>
 </div>
-<div id="user-content-toc">
+<div>
   <ul>
     <summary><h2 style="display: inline-block">📚 Next To Learn 🧐</h2></summary>
   </ul>
