@@ -5,7 +5,7 @@
   </ul>
 </div>
 <div align="center">
-  <img src="https://github.com/julian98789/julian98789/assets/132085190/c042c5a9-fb0f-4277-9c3a-3dbd1a07f563" alt="readgif">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjc2OGtuYzJueWs5czdnMDE3NnluNHZqcjE0eXFjeXZvM3Njdzh3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="readgif">
 </div>
 <br>
 <p align="center">
