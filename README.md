@@ -1,8 +1,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<div>
-  <ul align="center">
-    <summary><h1 style="display: inline-block">💾 Welcome To My GitHub! 💡</h1></summary>
-  </ul>
+<div align="center">  
+    <h1 style="display: inline-block">💾 Welcome To My GitHub! 💡</h1>  
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjc2OGtuYzJueWs5czdnMDE3NnluNHZqcjE0eXFjeXZvM3Njdzh3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="readgif">
