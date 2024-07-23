@@ -21,7 +21,7 @@
 </div>
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,react,firebase,nodejs,express,mongodb,postman,wordpress" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,react,firebase,nodejs,express,postgres,mongodb,postman,wordpress" />
   </a>
 </div>
 <div>
@@ -31,7 +31,7 @@
 </div>
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,nestjs,postgres,docker,aws,py" />
+    <img src="https://skillicons.dev/icons?i=ts,nestjs,docker,aws,py" />
   </a>
 </div>
 <br>
